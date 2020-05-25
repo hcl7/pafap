@@ -1,0 +1,109 @@
+/* pafap settings */
+#settings_pass
+{
+  width: auto;
+  border: 1px solid #F7F7F7;
+}
+
+#settings_account
+{
+  width: auto;
+  margin-top: 20px;
+  border: 1px solid #f7f7f7;
+}
+
+#settings_page
+{
+  width: auto;
+  margin-top: 20px;
+  border: 1px solid #f7f7f7;
+}
+
+#settings_cat
+{
+  width: auto;
+  margin-top: 20px;
+  border: 1px solid #f7f7f7;
+}
+
+#settings_image
+{
+  width: auto;
+  margin-top: 20px;
+  border: 1px solid #f7f7f7;
+}
+
+#editaccarea
+{
+  display: none;
+}
+
+#editpgarea
+{
+  display: none;
+}
+
+#editpassarea
+{
+  display: none;
+}
+.editpass
+{
+  float: right;
+  margin-top: -14px;
+}
+
+.editacc
+{
+  float: right;
+  margin-top: -14px;
+}
+
+.editpg
+{
+  float: right;
+  margin-top: -14px;
+}
+.editcatg
+{
+  float: right;
+  margin-top: -14px;
+}
+
+.editimg
+{
+  float: right;
+  margin-top: -14px;
+}
+#editcatgarea
+{
+  display: none;
+}
+
+#editimgarea
+{
+  display: none;
+}
+.labelstyle { padding: 2px; font-weight: bold; font-size: 10px; text-align: right; }
+
+.cat_name
+{
+
+}
+#delete_categories a
+{
+  position:relative;
+  top:-12px;
+  right:5;
+  color: #000000;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  float:right;
+  width:15px;
+  height:15px;
+  background-image: url('../images/wallDelete.png');
+  background-repeat:no-repeat;
+}
+
+
+/* pafap settings */

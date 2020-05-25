@@ -1,0 +1,55 @@
+/* games */
+
+.game_menu
+{
+  margin-top: 10px;
+  padding: 0;
+  width: 100%;
+  float: left;
+}
+
+.game_menu li
+{
+  list-style-type:none;
+}
+
+.game_menu li a
+{
+  font: bold 10px "Lucida Grande", "Trebuchet MS", Verdana;
+  display: block;
+  color: grey;
+  width: auto;
+  border-bottom: 1px solid white;
+  padding: 7px 7px;
+  text-decoration: none;
+}
+
+#pafap_game_slide
+{
+  position:relative;
+  overflow: auto;
+  overflow-x: hidden;
+  height:470px;
+  max-height:77%;
+}
+
+.game_tool {
+  background:#eeeeee;
+  color:#35619d;
+  width: 99%;
+  padding:4px;
+  text-align:center;
+  font-weight: bold;
+}
+
+.game-ads
+{
+  width: 97%;
+  background:#eeeeee;
+  color:#E21403;
+  padding:4px;
+  top:0;
+  text-align:center;
+  font-weight: bold;
+}
+/* games */

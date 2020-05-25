@@ -1,0 +1,95 @@
+insert into pafap_category (cid, cname) values (101, 'Art');
+insert into pafap_category (cid, cname) values (102, 'Sport');
+insert into pafap_category (cid, cname) values (103, 'Science');
+insert into pafap_category (cid, cname) values (104, 'Religion');
+insert into pafap_category (cid, cname) values (105, 'Games');
+insert into pafap_category (cid, cname) values (106, 'Medical');
+insert into pafap_category (cid, cname) values (107, 'Justice');
+insert into pafap_category (cid, cname) values (108, 'Fitness');
+insert into pafap_category (cid, cname) values (109, 'Social');
+insert into pafap_category (cid, cname) values (110, 'Politic');
+insert into pafap_category (cid, cname) values (111, 'Lifestyle');
+insert into pafap_category (cid, cname) values (112, 'Trips');
+
+insert into pafap_category_type (ctid, ctname) values (101, 'Music');
+insert into pafap_category_type (ctid, ctname) values (101, 'Picture');
+insert into pafap_category_type (ctid, ctname) values (101, 'Film');
+insert into pafap_category_type (ctid, ctname) values (101, 'Literature');
+insert into pafap_category_type (ctid, ctname) values (101, 'Humor');
+
+insert into pafap_category_type (ctid, ctname) values (102, 'Football');
+insert into pafap_category_type (ctid, ctname) values (102, 'Basketball');
+insert into pafap_category_type (ctid, ctname) values (102, 'Volleyball');
+insert into pafap_category_type (ctid, ctname) values (102, 'Hockey');
+insert into pafap_category_type (ctid, ctname) values (103, 'Math');
+insert into pafap_category_type (ctid, ctname) values (103, 'Physics');
+insert into pafap_category_type (ctid, ctname) values (103, 'Chemistry');
+insert into pafap_category_type (ctid, ctname) values (103, 'Computing');
+insert into pafap_category_type (ctid, ctname) values (104, 'Christian');
+insert into pafap_category_type (ctid, ctname) values (105, 'AlienGuard_II');
+insert into pafap_category_type (ctid, ctname) values (105, 'AlienGuard');
+insert into pafap_category_type (ctid, ctname) values (105, 'MustacheWarrior');
+insert into pafap_category_type (ctid, ctname) values (105, 'UltimateChopper');
+insert into pafap_category_type (ctid, ctname) values (105, 'ultimateturtlerescue');
+insert into pafap_category_type (ctid, ctname) values (105, 'ultimate-crush');
+insert into pafap_category_type (ctid, ctname) values (105, 'Angry-Birds-Space');
+insert into pafap_category_type (ctid, ctname) values (105, 'ultimate-mamas-boy');
+insert into pafap_category_type (ctid, ctname) values (105, '2-kisilik-bilardo');
+insert into pafap_category_type (ctid, ctname) values (105, 'Blackjack');
+insert into pafap_category_type (ctid, ctname) values (105, 'Blackjack_II');
+insert into pafap_category_type (ctid, ctname) values (105, 'Age_Of_Castles');
+insert into pafap_category_type (ctid, ctname) values (105, 'Mugalon_Multiplayer_Poker');
+insert into pafap_category_type (ctid, ctname) values (105, 'Bubble_Shooter');
+insert into pafap_category_type (ctid, ctname) values (105, 'CrazyMustang');
+insert into pafap_category_type (ctid, ctname) values (105, 'Bowling-Mania');
+insert into pafap_category_type (ctid, ctname) values (105, 'Farm-Mania');
+insert into pafap_category_type (ctid, ctname) values (105, 'Golf-Solitaire');
+insert into pafap_category_type (ctid, ctname) values (105, 'Iondrift-Epsilon');
+insert into pafap_category_type (ctid, ctname) values (105, 'Master-Miner');
+insert into pafap_category_type (ctid, ctname) values (105, '3DChess');
+insert into pafap_category_type (ctid, ctname) values (105, 'Backgammon');
+insert into pafap_category_type (ctid, ctname) values (108, 'Food');
+insert into pafap_category_type (ctid, ctname) values (108, 'Exercise');
+insert into pafap_category_type (ctid, ctname) values (106, 'Allergology?');
+insert into pafap_category_type (ctid, ctname) values (106, 'Hematology');
+insert into pafap_category_type (ctid, ctname) values (106, 'Cardiology?');
+insert into pafap_category_type (ctid, ctname) values (106, 'Dermatology');
+
+insert into pafap_category_type (ctid, ctname) values (106, 'Gastroenterology');
+insert into pafap_category_type (ctid, ctname) values (106, 'Pathology');
+insert into pafap_category_type (ctid, ctname) values (106, 'Pediatrics');
+insert into pafap_category_type (ctid, ctname) values (106, 'Urology');
+
+insert into pafap_category_type (ctid, ctname) values (107, 'Comparative');
+insert into pafap_category_type (ctid, ctname) values (107, 'Procedural');
+insert into pafap_category_type (ctid, ctname) values (107, 'Commutative');
+insert into pafap_category_type (ctid, ctname) values (107, 'Retributive');
+insert into pafap_category_type (ctid, ctname) values (107, 'Restorative');
+
+insert into pafap_category_type (ctid, ctname) values (109, 'Psychology');
+insert into pafap_category_type (ctid, ctname) values (109, 'Sociology');
+insert into pafap_category_type (ctid, ctname) values (109, 'Anthropology');
+insert into pafap_category_type (ctid, ctname) values (109, 'Anthropology');
+insert into pafap_category_type (ctid, ctname) values (109, 'Shopping');
+
+insert into pafap_category_type (ctid, ctname) values (110, 'Government'); 
+insert into pafap_category_type (ctid, ctname) values (110, 'Political Parties');
+
+insert into pafap_games (name, img_url, link) values ('Golf-Solitaire', 'golfsolitaire.jpg', 'golfsolitaire.html');
+insert into pafap_games (name, img_url, link) values ('Iondrift-Epsilon', 'iondrift_epsilon.jpg', 'iondrift_epsilon.html');
+insert into pafap_games (name, img_url, link) values ('Master-Miner', 'master_miner.gif', 'master_miner.html');
+insert into pafap_games (name, img_url, link) values ('3DChess', '3DChess.jpg', '3DChess.html');
+insert into pafap_games (name, img_url, link) values ('Backgammon', 'backgammon3d.png', 'backgammon.html');
+
+update pafap_category set cicon = 'images/icons/art.png' where cid = 101;
+update pafap_category set cicon = 'images/icons/sport.png' where cid = 102;
+update pafap_category set cicon = 'images/icons/science.png' where cid = 103;
+update pafap_category set cicon = 'images/icons/religion.jpg' where cid = 104;
+update pafap_category set cicon = 'images/icons/games.png' where cid = 105;
+update pafap_category set cicon = 'images/icons/medical.jpg' where cid = 106;
+update pafap_category set cicon = 'images/icons/justice.png' where cid = 107;
+update pafap_category set cicon = 'images/icons/fitness.jpg' where cid = 108;
+update pafap_category set cicon = 'images/icons/social.jpg' where cid = 109;
+update pafap_category set cicon = 'images/icons/politics.jpg' where cid = 110;
+update pafap_category set cicon = 'images/icons/lifestyle.jpg' where cid = 111;
+update pafap_category set cicon = 'images/icons/trips.png' where cid = 112;
